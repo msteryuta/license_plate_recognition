@@ -1,0 +1,8 @@
+datasets==2.21.0
+opencv_python==4.10.0.84
+pandas==2.2.2
+Pillow==10.4.0
+scikit_learn==1.5.1
+torch==2.4.0
+transformers==4.44.0
+ultralytics==8.2.78
